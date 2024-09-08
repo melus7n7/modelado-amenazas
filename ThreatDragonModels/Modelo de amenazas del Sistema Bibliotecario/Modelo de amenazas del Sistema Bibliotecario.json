@@ -1,0 +1,44 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Modelo de amenazas del Sistema Bibliotecario",
+    "owner": "Guillermo Vera",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca estudiantes y personal universitario). Como esta es la primera implementación del sitio web, la funcionalidad será limitada. Serán tres usuarios de la aplicación:\n1. Estudiantes\n2. Personal\n3. Bibliotecarios\nEl personal y los estudiantes podrán iniciar sesión y buscar libros, y los miembros del personal podrán solicitar libros. Los bibliotecarios podrán iniciar sesión, agregar libros, agregar usuarios y buscar libros.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Lorena Rojas"
+      },
+      {
+        "name": "Sulem Martínez"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": " Diagrama de flujo de datos del sitio web",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Para el sitio web de la biblioteca universitaria"
+      },
+      {
+        "id": 2,
+        "title": " Diagrama de flujo de datos del inicio de sesión",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Para el inicio de sesión del usuario para el sitio web de la biblioteca universitaria"
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "Oscar Morales",
+    "threatTop": 0
+  }
+}
